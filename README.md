@@ -1,20 +1,12 @@
-# Ratpoison::Rb
+# Ratpoison
 
 TODO: Write a gem description
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Install it yourself as:
 
-    gem 'ratpoison-rb'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install ratpoison-rb
+    $ gem install ratpoison
 
 ## Usage
 

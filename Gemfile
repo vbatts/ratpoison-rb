@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in ratpoison-rb.gemspec
+# Specify your gem's dependencies in ratpoison.gemspec
 gemspec
