@@ -4,8 +4,8 @@ require File.expand_path('../lib/ratpoison/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Vincent Batts"]
   gem.email         = ["vbatts@slackware.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{bindings for the rapoison WM}
+  gem.summary       = %q{bindings for the rapoison WM}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
